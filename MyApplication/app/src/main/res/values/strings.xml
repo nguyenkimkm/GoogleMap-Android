@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="bandangodau">\u00A0\u00A0\u00A0Bạn đang ở đâu?</string>
+    <string name="diadiem">ĐỊA ĐIỂM</string>
+    <string name="gps">GPS chưa được kích hoạt</string>
+    <string name="wifi">Để cung cấp vị trí chính xác, kích hoạt WIFI</string>
+    <string name="show">Tìm</string>
+    <string name="avatar">Avatar</string>
+    <string name="name_venues">NameVenues</string>
+    <string name="add_venues">AddVenues</string>
+    <string name="close_venues">CloseVenues</string>
+    <string name="unknown">chưa xác định</string>
+</resources>
