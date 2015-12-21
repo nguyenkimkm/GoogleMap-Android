@@ -16,7 +16,7 @@ Chuỗi API sử dụng:"https://api.foursquare.com/v2/venues/search?client_id=C
  - Phần trên: hiển thị vị trí hiện tại trên GoogleMap.
  - Phần dưới: hiển thị danh sách các vị trí xung quanh vị trí hiện tại với các thông tin: tên vị trí, địa chỉ, khoảng cách.
 
-Sử dụng 2 icon xử lý sự kiện clik:
+Sử dụng 2 icon xử lý sự kiện click:
  - Icon home (góc phải dưới): Hiển thị đầy đủ màn hình bản đồ GoogleMap và đánh dấu trên bản đồ một số địa điểm xung quanh.
  - Icon search (góc trái trên): Hiển thị lại danh sách các vị trí xung quanh.
 Chạy thử chương trình với vị trí: 10.764102, 106.656254 (công ty VNG). Bật GPS của máy ảo để lấy tọa độ hoặc lấy tọa độ trên GoogleMap để đưa vào máy ảo. (giới hạn số vị trí tìm được là limit=50, radius=800).
